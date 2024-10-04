@@ -40,3 +40,7 @@ Contributions are welcome. Feel free to submit issues or pull requests.
 
 ## License
 This project is licensed under the MIT License.
+
+## Output
+![image](https://github.com/user-attachments/assets/e7cab031-bc4d-4aa3-b77a-981974575c78)
+
