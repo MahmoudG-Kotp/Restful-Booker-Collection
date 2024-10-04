@@ -1,5 +1,3 @@
-# Restful-Booker-Collection
-
 # Restful-Booker Collection
 
 ## Description
